@@ -30,6 +30,9 @@ export default function Navbar() {
           <Link href="/calendario" className="text-sm hover:text-blue-600 dark:hover:text-blue-400">
             Calendario
           </Link>
+          <Link href="/test" className="text-sm hover:text-blue-600 dark:hover:text-blue-400">
+            Pokemon
+          </Link>
         </nav>
         <div className="flex items-center gap-4">
           <Link 
